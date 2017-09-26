@@ -9,16 +9,9 @@ import static org.junit.jupiter.api.Assertions.*;
  * Created by sbashar on 21/09/2017.
  */
 class SolutionTest {
-    Solution solution;
-
-    @BeforeEach
-    void setUp() {
-        solution = new Solution();
-    }
-
     @Test
     void testValidPrintResult() {
-        assertEquals("Hello, World.\nHello, Java.", solution.printResult());
+        assertEquals("Hello, World.\nHello, Java.", Solution.printResult(), "printResult should print the output string in the specified format");
     }
 
 }
