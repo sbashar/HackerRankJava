@@ -5,8 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/HackerRankJava.iml" filepath="$PROJECT_DIR$/HackerRankJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThirtyDaysOfCode/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/ThirtyDaysOfCode/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaIfElse/JavaIfElse.iml" filepath="$PROJECT_DIR$/JavaIfElse/JavaIfElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/JavaIfElse/JavaIfElse.iml" filepath="$PROJECT_DIR$/Java/JavaIfElse/JavaIfElse.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/JavaStdinAndStdoutI/JavaStdinAndStdoutI.iml" filepath="$PROJECT_DIR$/Java/JavaStdinAndStdoutI/JavaStdinAndStdoutI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/JavaStdinAndStdoutII/JavaStdinAndStdoutII.iml" filepath="$PROJECT_DIR$/Java/JavaStdinAndStdoutII/JavaStdinAndStdoutII.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThirtyDaysOfCode/ThirtyDaysOfCode.iml" filepath="$PROJECT_DIR$/ThirtyDaysOfCode/ThirtyDaysOfCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/WelcomeToJava/WelcomeToJava.iml" filepath="$PROJECT_DIR$/Java/WelcomeToJava/WelcomeToJava.iml" />
     </modules>
