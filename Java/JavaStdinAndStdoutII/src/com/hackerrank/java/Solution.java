@@ -3,10 +3,6 @@ package com.hackerrank.java;
 import java.util.Scanner;
 
 class Solution {
-
-    public void input() {
-    }
-
     void printResult() {
         Scanner scanner = new Scanner(System.in);
 
